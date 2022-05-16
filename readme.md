@@ -5,9 +5,9 @@
 - 🎓 Estou estudando desenvolvimento web...
 
 <div align="center">
-  <a href="https://github.com/davidson-santos001">
-  <img height="165em"   align="center" src="https://github-readme-stats.vercel.app/api?username=davidson-santos001&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidson-santos001&layout=compact&langs_count=7&theme=react" />
+ <a href="https://github.com/davidson-santos001">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davidson-santos001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidson-santos001&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="davdison-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">

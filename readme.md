@@ -1,4 +1,4 @@
-### Olá! Eu sou Davidson Santos 👋
+### Olá! Eu sou Davidson Santos 👋🏾
 
 
 - 💻 Atualmente trabalho com redes de computadores...
